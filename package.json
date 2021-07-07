@@ -1,0 +1,23 @@
+{
+  "name": "mytani",
+  "version": "1.0.0",
+  "description": "Ariculture apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matdph/mytani.git"
+  },
+  "keywords": [
+    "pertanian",
+    "malaysia"
+  ],
+  "author": "Muhammad at coffee coding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matdph/mytani/issues"
+  },
+  "homepage": "https://github.com/matdph/mytani#readme"
+}
